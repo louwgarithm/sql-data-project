@@ -1,2 +1,2 @@
 # sql-data-project
-SQLl for Data Analysis Project
+SQL for Data Analysis Project
